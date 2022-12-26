@@ -1,4 +1,4 @@
-package Base;
+package runner;
 
 import com.codeborne.selenide.logevents.SimpleReport;
 import io.cucumber.java.After;
